@@ -14,7 +14,7 @@ This is even more true for startups, where all the business and financials decis
 
 I've worked in many environment, from [PullReview](http://pullreview.com)'s two-man structure to very large companies. I've seen a lot of teams with a lot of different ways to reach decisions. I don't think there is a good one, but I do think there is some bad ones. Whatever way you pick, it should respect a single and simple rule:
 
-Your process should allow you to reach a decision <em>in a specific amount of time.</em>
+<em>Your process should allow you to reach a decision in a specific amount of time.</em>
 
 The "amount of time" being dependant on the decision to take - some things are of much more importance than others, but should be fixed in advance as much as possible:
 
@@ -41,7 +41,7 @@ A <em>Democracy</em> is when at the end of the allocated time, the stakeholders 
 
 I did not see the Democracy implemented a lot, except in Scrum processes' retrospectives, but it is following my unique rule. The caveats are that the "diktat of the majority" may lead to strange situations. 
 
-As an example, I remember discussing the way the knowledge was shared between developers inside the team. At the end, there was two opinions: use a "everyone pick the first story on the pile" approach versus a "each developer nominate and train a specific backup for his/her projects". The second option was the leader in the votes, even if no developer in the team actually voted for it - we were outvoted by non-coding team members on a subject specific to coding.
+I remember discussing the way the knowledge was shared between developers inside the team. At the end, there was two opinions: use a "everyone pick the first story on the pile" approach versus a "each developer nominate and train a specific backup for his/her projects". The second option was the leader in the votes, even if no developer in the team actually voted for it - we were outvoted by non-coding team members on a subject specific to coding.
 
 ### Throwing a dice
 
@@ -51,7 +51,7 @@ Probably a far fetched example, but throwing a dice is a valid decision strategy
 
 ### Consensus
 
-A <em>Consensus</em> require all the stakeholder to agree for the decision to be taken. In practice, it means that no decision will be taken until it can be reached - which is a non-predictive amount of time that increase very quickly with the number of persons involved.
+A <em>Consensus</em> require all the stakeholders to agree for the decision to be taken. In practice, it means giving everry person a veto, so that no decision will be taken until everyone agree - which requires a non-predictive amount of time that increase very quickly with the number of persons involved.
 
 ### Delay/Delegate
 
@@ -61,7 +61,7 @@ None of those can garantee a decision in a specific amount of time, so they shou
 
 ## We have rules for the cases that don't work
 
-Something I heard a lot is: "you should first try to find agree to a decision together before coming to this sort of process". Fact is, I do. You don't need rules for the cases that work. <em>You need them for the cases that don't</em>. If you agree from the start, then you don't need a process on that case, and that's good.
+Something I heard a lot is: "you should first try to agree together before coming to this sort of process". Fact is, I do. You don't need rules for the cases that work. <em>You need them for the cases that don't</em>. If you agree from the start, then you don't need a process on that case, and that's good.
 
 ## Conclusion
 
