@@ -1,18 +1,22 @@
 ---
 title: Le Wagon Middleman boilerplate
 ---
-
-<div class="welcome text-center padded">
-  <h1>Middleman is Watching</h1>
-  <p class="doc">
-    <%= link_to "Read Online Documentation", "http://middlemanapp.com/" %>
-
-    <% link_to "http://middlemanapp.com/" do %>
-      <p>Midddddleman !</p>
-    <% end %>
-  </p><!-- .doc -->
+<div class="container">
+<div class="jumbotron">
+<h1>Lectures of LeWagon</h1>
+  <p>Here are links to all our lectures</p>
+  <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<ul class="list-group">
   <% data.posts.each do |post| %>
+    <li class="list-group-item">
     <h2><%= post.title %></h2>
     <p><%= post.content %></p>
+    </li>
   <% end %>
+</ul>
+  </div>
 </div><!-- .welcome -->
+</div>
