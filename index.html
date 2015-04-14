@@ -13,8 +13,9 @@ subtitle: Thinking and Writing about Software
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         <div class="post-content">
-        {{ post.excerpt }}
+        {{ post.excerpt | remove: '<h2>' | remove: '</h2>'  }}
         </div>
+        <hr>
       </li>
     {% endfor %}
   </ul>

@@ -4,11 +4,7 @@ title:  "Decision Making"
 date:   2015-01-30 16:58:20
 ---
 
-## Decisions in development teams and startups
-
-Decisions are an integral part of a development's team work. Whether it is about priorities, methodologies, tools to use, we always have to settle on something.
-
-This is even more true for startups, where all the business and financials decisions are added to the pure development ones.
+Decisions are an integral part of a development's team work. Whether it is about priorities, methodologies, tools to use, we always have to settle on something. This is even more true for startups, where all the business and financials decisions are added to the pure development ones.
 
 ## My decision process evaluation (only) rule
 
