@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "10% working is better than 80% not working"
-date:   2015-04-10 16:58:20
+date:   2015-04-14 16:58:20
 ---
 
 For the last 9 weeks, I've been working with a session of [LeWagon Bootcamp](http://lewagon.org/program) students. I'm used to coach developers, but this was the first time in many years that I was coaching total beginners again, and that gave me new insight about the way we learn to program, and also on some typical problems people face when learning.
@@ -13,7 +13,7 @@ Like a little hungry kid, when facing a programming problem, they try to figure 
 This make the little kid (and the little programmer) angry, which means that the next bite become more and more complicated, until they give up in frustration.
 
 ## An example
-One of the exercise was to translate a text (several words/sentences) into "louchebem" - a slang used notably by parisian butchers a while ago. To "louchebemize" a word, you apply the following rules:
+One of the exercises from [LeWagon Bootcamp](http://lewagon.org/program) was to translate a text (several words/sentences) into "louchebem" - a slang used notably by parisian butchers a while ago. To "louchebemize" a word, you apply the following rules:
 
 * Move the first syllab to the end if it starts with a conson
 * Add a "l" as first letter
@@ -35,7 +35,7 @@ As an example:
     louchebemize("Bonjour à tout le monde!")
     => "Ljourbonji à ltoutji lleji ldemonji!"
 
-## What most of them did
+## What the students did
 
 Starting on something that was a rather complex program (several rules/steps), most of the students attempted to implement the full transformation in one cut, resulting in a code with several errors.
 
@@ -51,7 +51,7 @@ This leads to writing block and frustration - from a solution that they thought 
 
 ## A better way
 
-Seeing this scenario happens again and again forced me to get back to the way I did create my own solution, and to see how to push them in the right direction (without simply helping on the debugging) - the interesting part in coaching is that the objective is not really to make the code run, but mostly to be sure that the next problem will be tackled better.
+Seeing this scenario happens again and again forced me to get back to the way I did create my own solution, and to see how to push them in the right direction (without simply helping on the debugging) - *the interesting part in coaching is that the objective is not really to make the code run, but mostly to be sure that the next problem will be tackled better*.
 
 I asked one student the logic he wanted to use, and he told me directly:
 
@@ -87,7 +87,7 @@ def louchebemize(text)
 end
 {% endhighlight %}
 
-This was I call the 10%: the program is doing something, and most importantly, it is running (outputting the text 'as is'). Should it be any mistakes in the loop, split or join logic, it would be easy to catch & fix - it is just 3 lines of code.
+*This was I call the 10%: the program is doing something, and most importantly, it is running* (outputting the text 'as is'). Should it be any mistakes in the loop, split or join logic, it would be easy to catch & fix - it is just 3 lines of code.
 
 Funny part, the student initially was not really happy with this - it did not look to him that he had made any progress toward a solution. Yet.
 
