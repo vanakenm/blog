@@ -4,22 +4,22 @@ title:  "10% working is better than 80% not working"
 date:   2015-04-14 16:58:20
 ---
 
-For the last 9 weeks, I've been working with a session of [LeWagon Bootcamp](http://lewagon.org/program) students. I'm used to coach developers, but this was the first time in many years that I was coaching total beginners again, and that gave me new insight about the way we learn to program, and also on some typical problems people face when learning.
+For the last 9 weeks, I've been working with a session of [LeWagon Bootcamp](http://lewagon.org/program) students. I'm used to coach developers, but this was the first time in many years that I was coaching total beginners again, and that gave me new insights about the way we learn to program, and also on some typical problems people face when learning.
 
 ## They try to eat the whole problem in one bite
 
-Like a little hungry kid, when facing a programming problem, they try to figure out a full solution, in their head and/or in their code. And like the little kid, the result is a lot of splashed food around, and not that much in the mouth.
+Like hungry little kids, when facing a programming problem, they try to figure out a full solution, in their head and/or in their code. And like little kids, the result is a lot of splashed food around, and not that much in the mouth.
 
-This make the little kid (and the little programmer) angry, which means that the next bite become more and more complicated, until they give up in frustration.
+This make little kids (and little programmers) angry, which means that the next bite become more and more complicated, until they give up in frustration.
 
 ## An example
 One of the exercises from [LeWagon Bootcamp](http://lewagon.org/program) was to translate a text (several words/sentences) into "louchebem" - a slang used notably by parisian butchers a while ago. To "louchebemize" a word, you apply the following rules:
 
-* Move the first syllab to the end if it starts with a conson
+* Move the first syllable to the end if it starts with a consonant
 * Add a "l" as first letter
 * Add a "ji" suffix at the end
-* One letter words are kept "as is"
-* Punctuation or other special characters (dots, quotes, comas, apostrophe, etc) needs to be kept "as is"
+* One-letter words are kept "as is"
+* Punctuation or other special characters (dots, quotes, commas, apostrophes...) needs to be kept "as is"
 
 Our placeholder was something like:
 
@@ -39,19 +39,19 @@ As an example:
 
 Starting on something that was a rather complex program (several rules/steps), most of the students attempted to implement the full transformation in one cut, resulting in a code with several errors.
 
-The testing period was then quite painful, as multiple problem occured - from syntax to logic ones, making the debugging both complicated and frustrating.    
+The testing period was then quite painful, as multiple problems occured - from syntax to logic ones, making the debugging both complicated and frustrating.    
 
 This was made even worse as the program itself was not running at all (due to invalid syntax).
 
 ## The problem
 
-The main problem of this approach is that they were trying to figure the whole problem in their heads - and logically could'nt.
+The main problem of this approach is that they were trying to figure the whole problem in their heads - and logically couldn't.
 
-This leads to writing block and frustration - from a solution that they thought (rightfully) 80% right. Unfortunately, in programming, the devil is mostly in those 20%.
+This leads to writing block and frustration - from a solution that they (rightfully) thought 80% right. Unfortunately, in programming, the devil is mostly in those 20%.
 
 ## A better way
 
-Seeing this scenario happens again and again forced me to get back to the way I did create my own solution, and to see how to push them in the right direction (without simply helping on the debugging) - *the interesting part in coaching is that the objective is not really to make the code run, but mostly to be sure that the next problem will be tackled better*.
+Seeing this scenario happens again and again forced me to get back to the way I did create my own solution, and to see how to push them in the right direction (without simply helping on the debugging) -- *the interesting part in coaching is that the objective is not really to make the code run, but mostly to be sure that the next problem will be tackled better*.
 
 I asked one student the logic he wanted to use, and he told me directly:
 
@@ -71,7 +71,7 @@ end
 {% endhighlight %}
 
 - I've done it, but this is of course not working.
-- Why don't you return already the sentence?
+- Why don't you return the sentence already?
 - It won't help - I did not do any transformation yet.
 - Do it anyway.
 
@@ -87,7 +87,7 @@ def louchebemize(text)
 end
 {% endhighlight %}
 
-*This was I call the 10%: the program is doing something, and most importantly, it is running* (outputting the text 'as is'). Should it be any mistakes in the loop, split or join logic, it would be easy to catch & fix - it is just 3 lines of code.
+*This was I call the 10%: the program is doing something, and most importantly, it is running* (outputting the text 'as is'). Should there be any mistakes in the loop, split or join logic, it would be easy to catch & fix - it is just 3 lines of code.
 
 Funny part, the student initially was not really happy with this - it did not look to him that he had made any progress toward a solution. Yet.
 
@@ -110,15 +110,15 @@ end
 Again, this code is clearly not getting the right result, but:
 
 1. It runs
-2. It is one step further toward the solution
+2. It is one step further towards the solution
 
 Several errors where actually found & fixed directly at that time by several students (like using an 'each' instead of a 'map').
 
-We had to repeat this several times (for the one letter word case, for adding the 'l', for moving the first syllab to the end), but once they were at this points, most of the students had learned something.
+We had to repeat this several times (for the one-letter word case, for adding the 'l', for moving the first syllable to the end), but once they were at this point, most of the students had learned something.
 
 ## Learnings
 
-Altought this is nothing new for seasoned programmers, having to go back at the learning was actually helpful for me too - I've made the same mistake that my students several times during my career, and this may help me to do it less in the future.
+Altought this is nothing new for seasoned programmers, having to look back at the learning process was actually helpful for me too - I've made the same mistakes my students did several times during my career, and this may help me to do it less in the future.
 
 Facing any but the most trivial problem, it's actually realizing that:
 
