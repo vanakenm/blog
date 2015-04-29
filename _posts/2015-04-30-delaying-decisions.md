@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Delaying Decisions"
-date:   2015-04-30 16:58:20
+date:   2015-04-29 16:58:20
 ---
 
 Second post inspired by my experience as a coach at [LeWagon Bootcamp](http://lewagon.org/program). For those that missed the first, it's just [there](http://vanakenm.github.io/blog/2015/04/14/10-percent-working.html).
