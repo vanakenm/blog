@@ -32,11 +32,11 @@ $(document).ready(function(){
             queue: false
         }
     });
- 
+
     $('.grid-controls li a').click(function(){
         $('.grid-controls .current').removeClass('current');
         $(this).addClass('current');
- 
+
         var selector = $(this).attr('data-filter');
         $container.isotope({
             filter: selector,
@@ -53,7 +53,7 @@ $(document).ready(function(){
 
 /* Magnific Popup */
 $('.grid-wrapper').magnificPopup({
-		  delegate: 'a', 
+		  delegate: 'a',
 		  type: 'image',
 		  gallery:{
 			enabled:true
@@ -72,12 +72,12 @@ $(".navbar").sticky({topSpacing: 0});
         changeHash: false,
         scrollThreshold: 0.5,
         scrollSpeed: 750,
-        filter: "",
-        easing: "swing"	
+				filter: ':not(.external)',
+        easing: "swing"
      });
 
 /* Charts*/
-    
+
 $('.chart').waypoint(function() {
     $(this).easyPieChart({
     	   barColor: '#3498db',
@@ -94,10 +94,10 @@ $('.chart').waypoint(function() {
 
 
 /* VEGAS Home Slider */
-	
+
 		$.vegas('slideshow', {
 			  backgrounds:[
-				
+
 				{ src:'img/{{ page.background }}', fade:1000 },
 			  ]
 			})('overlay', {
@@ -134,7 +134,7 @@ $('.chart').waypoint(function() {
             element.text('OK!').addClass('valid')
                 .closest('.control-group').removeClass('error').addClass('success');
         }
-    }); 
+    });
 
 
 
