@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Some advices to starting developers"
+title:  "Some advices to new developers"
 date:   2015-07-06 14:00:20
 ---
 
