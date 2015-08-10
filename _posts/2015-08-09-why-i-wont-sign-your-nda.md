@@ -6,7 +6,7 @@ date:   2015-08-09 17:00:00
 
 Since I started as a freelance beginning of this year, I had the opportunity to meet a lot of business owners, most of them in the very early stages of their venture. Most of them are coming to me to get either technical advice or to develop their MVP, but most often we start by just having a simple discussion.
 
-I realized some weeks ago that I was basically telling the same things to most of them, but also that was often useful to them (by their own feedback). So I decided to start a small series of posts more oriented toward business owners, from which this is a first post.
+I realized some weeks ago that I was basically telling the same things to most of them, but also that it was often useful to them (by their own feedback). So I decided to start a small series of posts more oriented toward business owners, from which this is a first post.
 
 ## Context
 
