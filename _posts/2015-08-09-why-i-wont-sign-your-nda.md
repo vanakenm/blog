@@ -6,21 +6,21 @@ date:   2015-08-09 17:00:00
 
 Since I started as a freelance beginning of this year, I had the opportunity to meet a lot of business owners, most of them in the very early stages of their venture. Most of them are coming to me to get either technical advice or to develop their MVP, but most often we start by just having a simple discussion.
 
-I realized some weeks ago that I was basically telling the same things to most of them, but also that is was often useful to them (by their own feedback), so I decided to start a small serie of posts more oriented toward business owners, from which this is a first post.
+I realized some weeks ago that I was basically telling the same things to most of them, but also that it was often useful to them (by their own feedback). So I decided to start a small series of posts more oriented toward business owners, from which this is a first post.
 
 ## Context
 
-Even if I'm mostly contacted for my development skills, I usually starts by asking some questions about the business itself - I need it to give any valuable advice anyway. At some point (and often a bit by suprise), the business owner says:
+Even if I'm mostly contacted for my development skills, I usually start by asking some questions about the business itself - I need it to give any valuable advice anyway. At some point (and often a bit by suprise), the business owner says:
 
-- BTW, we'll start the meeting tomorrow by asking you to sign our NDA
+- BTW, we'll start the meeting tomorrow by asking you to sign our NDA.
 
-This was unsettling for me as is sort of suppose that I'll do it and that's never an issue. Well, it is an issue to me, for reasons I'll outline here in the form of the usual questions I get.
+This was unsettling for me as it sort of suppose that I'll do it and that's never an issue. Well, it is an issue to me, for reasons I'll outline here in the form of the usual questions I get.
 
 ## On the business side
 
 ### I've a very unique idea, so I need to protect it
 
-I'm sorry, but no, your idea is (most probably) not unique. We're 7 billions people on this planet. The chances that you are the only person to have ever thought of that are... slim, and if you are (ie, if no one is into that segment), chances are good that it's because there is not market.
+I'm sorry, but no, your idea is (most probably) not unique. We're 7 billions of people on this planet. Chances are you are not the only person having ever thought of that idea ..., and if you are (ie, if no one is into that segment), chances are good that it's because there is not a market for it.
 
 ### My idea will make the difference
 
@@ -36,15 +36,15 @@ At that point, if it's just about the idea, anyone could copy it anyway.
 
 Great. Tell that to Wordperfect or Altavista or MySpace - they did what Microsoft, Google and Facebook are doing, and they were there long before. Looks how well it worked for them in the end.
 
-Again, it's not about the idea or being first, it's about execution. Google Search (and its associated business model) was not unique nor first - but it was much better *executed* than it's predecessors/competitors.
+Again, it's not about the idea or being first, it's about execution. Google Search (and its associated business model) was not unique nor first - but it was much better *executed* than its predecessors/competitors.
 
 ### You are a developer, so you could steal my idea and build it
 
 Again, if the only thing you can bring on the table is an idea, see previous point.
 
-Now, I'm working as a freelance, and I want to work on different projects. It would not be really smart career wise to be "the guy that steal ideas".
+Now, I'm working as a freelance, and I want to work on different projects. It would not be really smart, career wise, to be "the guy that steal ideas".
 
-Moreover: I'm not qualified to make it work. I made projects in very various domains: insurance, meal delivery, publishing, etc... In most of those cases, the business people were specialists of those sectors. I'm not. I could build the software, then what? I'll be unable to sell it/market it/communicate with the audience.
+Moreover: I'm not qualified to make it work. I made projects in very various domains: insurance, meal delivery, publishing, etc... In most of those cases, the business people were specialists of those sectors. I am not. I could build the software, then what? I'll be unable to sell it/market it/communicate with the audience.
 
 ## On my side
 
@@ -54,21 +54,22 @@ No, it's not. It's a legally binding contract which may bring me before a justic
 
 ### It's a very standard document
 
-I don't know. Maybe it is, maybe not. I'm not qualified to judge, and if you are not a lawyer, you're not qualified either. I would need to ask my lawyer to read it and give me feedback. This takes time and money that I prefer to spend respectively on building software and eating good food or taking holidays.
+I don't know. Maybe it is, maybe not. I'm not qualified to judge, and if you are not a lawyer, you're not qualified either. I would need to ask my lawyer to read it and give me feedback. This takes time and money that I prefer to spend respectively on building software and eating good food or going on holidays.
 
 ### ROI
 
-I start most collaboration by proposing to work on the smallest piece of software I can. This means that we can learn to work together without you putting in too much money. At the end, either it works well and we continue, or it does not, and you still have a first working software to show to your users and ownership on the code to get further with someone else.
+I start most collaboration by proposing to work on the smallest piece of software I can. This means that we can learn to work together without you putting in too much money. At the end, either it works well and we continue, or it does not. But you still have a first working software to show to your users and you have the ownership on the code to get along with someone else.
 
-Getting my lawyer in and getting the risk of a law action are just not worth it if we're talking about a couple thousand euro in revenue. Even if I win, *I'll lose more in the process (in money but mostly in time/energy) that what your business could brings to me in revenue*.
+Getting my lawyer in and getting the risk of a law action are just not worth it if we're talking about a couple of thousand euro in revenue. Even if I win, *I'll lose more in the process (in money but mostly in time/energy) that what your business could bring to me in revenue*.
 
 It's your business - you have the right to put any requirements you judge necessary to anyone wanting to work with you, but on my side, I can just decide to pass the opportunity.
 
 ## Some final words
 
-None of this means I'll be bragging around about our discussion - we're professionals here, so if you ask me to keep it quiet I will (I think *you* should talk about your idea to as many people as you can, but that's for you to decide, not me). I just hope it can help sched some light about why an NDA is something that is both less needed and more serious than most people seems to think.
+None of this means I'll be bragging around about our discussion - we're professionals here, so if you ask me to keep it quiet I will. But I think *you* should talk about your idea to as many people as you can, but that's for you to decide, not me.
+
+I just hope it can help shed some light about why an NDA is something that is both less needed and more serious than most people seem to think.
 
 In addition, for all the conviction I have that ideas are worth nothing, I think that as a business owner you have so much more to bring - mainly a knowledge and contact to your audience, a drive to make it happen, probably connections needed, etc.
 
 So don't think your idea is the only thing you have. It's not.
-
