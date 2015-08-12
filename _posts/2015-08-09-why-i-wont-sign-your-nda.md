@@ -6,7 +6,7 @@ date:   2015-08-09 17:00:00
 
 Since I started as a freelance beginning of this year, I had the opportunity to meet a lot of business owners, most of them in the very early stages of their venture. Most of them are coming to me to get either technical advice or to develop their MVP, but most often we start by just having a simple discussion.
 
-I realized some weeks ago that I was basically telling the same things to most of them, but also that it was often useful to them (by their own feedback). So I decided to start a small series of posts more oriented toward business owners, from which this is a first post.
+I realized some weeks ago that I was basically telling the same things to most of them, but also that it was often useful to them (by their own feedback). This posts (and some others to follow) are basically outputs of those various discussions.
 
 ## Context
 
@@ -14,13 +14,13 @@ Even if I'm mostly contacted for my development skills, I usually start by askin
 
 - BTW, we'll start the meeting tomorrow by asking you to sign our NDA.
 
-This was unsettling for me as it sort of suppose that I'll do it and that's never an issue. Well, it is an issue to me, for reasons I'll outline here in the form of the usual questions I get.
+This was unsettling for me as it sort of suppose that it's critical for their business and a non issue for me - both side I'm challenging in the rest of this post.
 
 ## On the business side
 
 ### I've a very unique idea, so I need to protect it
 
-I'm sorry, but no, your idea is (most probably) not unique. We're 7 billions of people on this planet. Chances are you are not the only person having ever thought of that idea ..., and if you are (ie, if no one is into that segment), chances are good that it's because there is not a market for it.
+I'm sorry, but no, *your idea is (most probably) not unique*. We're 7 billions of people on this planet. Chances are you are not the only person having ever thought of that idea ..., and if you are (ie, if no one is into that segment), chances are good that it's because there is not a market for it.
 
 ### My idea will make the difference
 
@@ -36,7 +36,7 @@ At that point, if it's just about the idea, anyone could copy it anyway.
 
 Great. Tell that to Wordperfect or Altavista or MySpace - they did what Microsoft, Google and Facebook are doing, and they were there long before. Looks how well it worked for them in the end.
 
-Again, it's not about the idea or being first, it's about execution. Google Search (and its associated business model) was not unique nor first - but it was much better *executed* than its predecessors/competitors.
+Again, *it's not about the idea or being first, it's about execution*. Google Search (and its associated business model) was not unique nor first - but it was much better *executed* than its predecessors/competitors.
 
 ### You are a developer, so you could steal my idea and build it
 
@@ -44,7 +44,7 @@ Again, if the only thing you can bring on the table is an idea, see previous poi
 
 Now, I'm working as a freelance, and I want to work on different projects. It would not be really smart, career wise, to be "the guy that steal ideas".
 
-Moreover: I'm not qualified to make it work. I made projects in very various domains: insurance, meal delivery, publishing, etc... In most of those cases, the business people were specialists of those sectors. I am not. I could build the software, then what? I'll be unable to sell it/market it/communicate with the audience.
+Moreover: *I'm not qualified to make it work*. I made projects in very various domains: insurance, meal delivery, publishing, etc... In most of those cases, the business people were specialists of those sectors. I am not. I could build the software, then what? *I'll be unable to sell it/market it/communicate with the audience, and that's the most critical part.*
 
 ## On my side
 
@@ -66,7 +66,7 @@ It's your business - you have the right to put any requirements you judge necess
 
 ## Some final words
 
-None of this means I'll be bragging around about our discussion - we're professionals here, so if you ask me to keep it quiet I will. But I think *you* should talk about your idea to as many people as you can, but that's for you to decide, not me.
+None of this means I'll be bragging around about our discussion - we're professionals here, so if you ask me to keep it quiet I will. I do think *you* should talk about your idea to as many people as you can, but that's for you to decide, not me.
 
 I just hope it can help shed some light about why an NDA is something that is both less needed and more serious than most people seem to think.
 
