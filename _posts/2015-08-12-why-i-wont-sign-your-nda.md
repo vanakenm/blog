@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why I won't sign your NDA"
-date:   2015-08-09 17:00:00
+date:   2015-08-12 12:00:00
 ---
 
 Since I started as a freelance beginning of this year, I had the opportunity to meet a lot of business owners, most of them in the very early stages of their venture. Most of them are coming to me to get either technical advice or to develop their MVP, but most often we start by just having a simple discussion.
