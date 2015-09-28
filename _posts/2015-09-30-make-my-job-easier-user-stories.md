@@ -47,7 +47,7 @@ This lead to a simple (at least in its formulation) description:
 
 The result of this is what we call a User Story - a simple template that describe a feature in a single sentence with the following format:
 
-> As a <user catogory> I want to <given feature> so I can get <benefit>
+> As a <em>user catogory</em> I want to <em>given feature</em> so I can enjoy <em>benefit</em>
 
 Some samples for a banking system:
 
@@ -59,6 +59,7 @@ Some samples for a banking system:
 
 As the format constrains you to a single sentence, it forces you to divide your big blocks into small ones. Not an easy process, but a very valuable one as the risk of misunderstanding becomes very low - and there is more:
 
+* The story focus on the user - who he is, what he wants and most important why (the benefit)
 * As the story is "user observable", you'll have something to see/test after each story (so very often)
 * The simple format allows for easy agreement about whether something is done or not
 * The small size allows to get a good vibe about the project process, as stories are typicall developed in a couple of days.
