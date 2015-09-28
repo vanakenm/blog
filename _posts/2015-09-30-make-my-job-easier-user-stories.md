@@ -47,7 +47,7 @@ This lead to a simple (at least in its formulation) description:
 
 The result of this is what we call a User Story - a simple template that describe a feature in a single sentence with the following format:
 
-> As a <em>user catogory</em> I want to <em>given feature</em> so I can enjoy <em>benefit</em>
+> As a <em>user category</em> I want <em>given feature</em> so I can enjoy <em>benefit</em>
 
 Some samples for a banking system:
 
