@@ -1,16 +1,16 @@
 ---
 layout: post
 title:  "Make my job easier: User Stories"
-date:   2015-09-30 12:00:00
+date:   2015-10-06 12:00:00
 ---
 
 Second post mostly aimed at business owners. As the previous about [why I won't sign your NDA](http://joyouscoding.com/blog/2015/08/12/why-i-wont-sign-your-nda.html), this is mainly a summary of experiences based on building various projects in the context of our upcoming MVP Labs (more on that later).
 
 ## The Grim Situation
 
-Software development is known to be pretty much a waste - as an industry, we are known to deliver late, badly and expensively. According to a McKinsey study 7% is late, 56% is over budget for having delivered only 44% of the functionalities.
+Software development is known to be pretty much a waste - as an industry, we are known to deliver late, badly and expensively. According to a McKinsey study, the mean software development project is 7% late, 56% over budget while delivering only 44% of the functionalities.
 
-This is due to a lot of factors. One factor I want to clarify today: "bad customer/developer communication" - and what you as a business owner can do to make my job easier.
+This is due to a lot of factors. One factor I want to clarify today is: "bad customer/developer communication" - and what you as a business owner can do to make my job easier.
 
 ## The problem
 
@@ -74,5 +74,7 @@ Now is the time to prioritize them, and the best way is a simple order: move the
 ## Ready!
 
 With this prioritized list in hand, you can come to a development team with a clear view of what you want. We'll typically run through the list together, asking any question we could have. Barring any technical reason to reorder (I may need to develop the user Sign Up story before being able to do for example Saved Filters), we'll then start working in order - taking the one from the top of the pile first.
+
+## Conclusion
 
 Making my job easier is actually a good way to help me focus on what matters to you - hence delivering more value for your business.
