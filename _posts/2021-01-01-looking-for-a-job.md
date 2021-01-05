@@ -15,7 +15,7 @@ _What can I do?_ Pretty much any role in a development team. I’ve spent the la
 
 I’m generally _tech-agnostic_ - I think what matters is the value we produce, so I generally favor mature, boring solutions (looking at you Postgresql). I’ve been using Java, Ruby, Javascript and Python in professional settings.
 
-I’m also interested in _working more with data_ - being an economist by education and working on a lot of data issues means I’ve developed a lot of curiosity in that area (including working more with Python/Panda/etc).
+I’m also interested in _working more with data_ - being an economist by education and working on a lot of data issues means I’ve developed a lot of curiosity in that area (including working more with Python/pandas/etc).
 
 As far as experience, I’ve worked with companies from 1 to 3000+, including cofounding one. I’ve been a sole developer for new startups & led teams from 2 to 20 in various industries.
 
